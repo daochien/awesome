@@ -1,4 +1,5 @@
 <?php
+namespace MasterChen\Demo;
 
 use Illuminate\Support\ServiceProvider;
 
